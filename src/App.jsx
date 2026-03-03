@@ -168,7 +168,7 @@ function App() {
               <div className="relative mb-8 md:mb-0 md:absolute md:top-12 md:right-12 w-32 h-32 md:w-40 md:h-40 z-20">
                 <div className="w-full h-full rounded-[2.5rem] overflow-hidden border-2 border-white/10 shadow-2xl rotate-3 group-hover:rotate-0 transition-transform duration-500">
                   <img 
-                    src="/perfil.jpeg" 
+                    src="/perfil-new.jpeg" 
                     alt="Roberto Afonso Malavé" 
                     className="w-full h-full object-cover scale-110 group-hover:scale-100 transition-transform duration-500" 
                   />
